@@ -1,5 +1,7 @@
 # MERN ToDo App
 
+**🔗 Live demo:** [https://farru11.github.io/Mern-Todo/](https://farru11.github.io/Mern-Todo/)
+
 A simple full-stack ToDo app built with **MongoDB, Express, React (Vite) and Node.js**.
 Add, edit and delete tasks, stored in MongoDB.
 
